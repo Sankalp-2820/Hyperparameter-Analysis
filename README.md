@@ -1,5 +1,5 @@
 # Hyperparameter-Analysis on Performance of Neural Networks
-**Analysis of the effect of Hyper-parameter tuning on Neural Network Model**
+**Analysis of the effect of Hyper-parameter tuning on a Neural Network Model**
 - Creating a Simple Neural Network to classify digits from 0-9 using
   **TensorFlow** and **scikit-learn**(for PCA).
 - Use of the **MNIST** data set (available on Kaggle) to train the model.
